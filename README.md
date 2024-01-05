@@ -49,3 +49,9 @@ That is the reason why I want to create this application:
 - As a user, I want to be able to save multiple terms
 - As a user, I want to be able to resume and fill my grade to corresponding components 
 without having to fill all of them again
+
+
+### Demo Video
+
+https://github.com/r-ey/viz/assets/128633118/2442f474-75cf-4c4b-84c3-1ec0149f4a88
+
