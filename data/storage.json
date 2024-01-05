@@ -1,0 +1,17 @@
+{
+    "term list": {"Fall 23": {
+        "week": 13,
+        "CPSC 210": {
+            "components": {
+                "final": ["Max Percentage : 50.00, Grade is Empty\n"],
+                "mid": ["Max Percentage : 20.00, Real : 18.00\n"],
+                "lab": [
+                    "Max Percentage : 15.00, Real : 15.00\n",
+                    "Max Percentage : 15.00, Real : 12.75\n"
+                ]
+            },
+            "target": 90
+        }
+    }},
+    "profile name": "me"
+}

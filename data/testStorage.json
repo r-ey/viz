@@ -1,0 +1,67 @@
+{
+    "term list": {
+        "Spring 24": {
+            "week": 7,
+            "MATH 220": {
+                "components": {
+                    "Assignment": [
+                        "Max Percentage : 2.50, Real : 2.00\n",
+                        "Max Percentage : 2.50, Real : 1.60\n",
+                        "Max Percentage : 2.50, Real : 1.80\n",
+                        "Max Percentage : 2.50, Grade is Empty\n"
+                    ],
+                    "Midterm": [
+                        "Max Percentage : 15.00, Real : 12.50\n",
+                        "Max Percentage : 15.00, Real : 13.00\n"
+                    ],
+                    "HomeWork": [
+                        "Max Percentage : 4.00, Real : 3.00\n",
+                        "Max Percentage : 3.00, Real : 1.00\n",
+                        "Max Percentage : 3.00, Grade is Empty\n"
+                    ],
+                    "Final": ["Max Percentage : 50.00, Grade is Empty\n"]
+                },
+                "target": 80
+            },
+            "CPSC 210": {
+                "components": {
+                    "Midterm": ["Max Percentage : 50.00, Real : 45.00\n"],
+                    "Final": ["Max Percentage : 50.00, Grade is Empty\n"]
+                },
+                "target": 90
+            }
+        },
+        "Fall 23": {
+            "week": 7,
+            "MATH 220": {
+                "components": {
+                    "Assignment": [
+                        "Max Percentage : 2.50, Real : 2.00\n",
+                        "Max Percentage : 2.50, Real : 1.60\n",
+                        "Max Percentage : 2.50, Real : 1.80\n",
+                        "Max Percentage : 2.50, Grade is Empty\n"
+                    ],
+                    "Midterm": [
+                        "Max Percentage : 15.00, Real : 12.50\n",
+                        "Max Percentage : 15.00, Real : 13.00\n"
+                    ],
+                    "HomeWork": [
+                        "Max Percentage : 4.00, Real : 3.00\n",
+                        "Max Percentage : 3.00, Real : 1.00\n",
+                        "Max Percentage : 3.00, Grade is Empty\n"
+                    ],
+                    "Final": ["Max Percentage : 50.00, Grade is Empty\n"]
+                },
+                "target": 80
+            },
+            "CPSC 210": {
+                "components": {
+                    "Midterm": ["Max Percentage : 50.00, Real : 45.00\n"],
+                    "Final": ["Max Percentage : 50.00, Grade is Empty\n"]
+                },
+                "target": 90
+            }
+        }
+    },
+    "profile name": "Rey"
+}
